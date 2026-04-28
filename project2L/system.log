@@ -1,0 +1,39 @@
+[2025-08-17 18:28:34] - SYSTEM_START: Application started.
+[2025-08-17 18:29:03] - PATIENT_REGISTRATION: New patient registered with ID 1, Name: nawras yaccob
+[2025-08-17 18:31:04] - DOCTOR_ADD: New doctor added with ID 1, Name: mohammad, Specialty: eng
+[2025-08-17 18:31:44] - SYSTEM_START: Application started.
+[2025-08-17 18:32:28] - DOCTOR_ADD: New doctor added with ID 2, Name: ahes, Specialty: eng
+[2025-08-17 18:36:45] - SYSTEM_START: Application started.
+[2025-08-17 18:37:25] - DOCTOR_ADD: New doctor added with ID 1, Name: mohammad, Specialty: eng
+[2025-08-17 18:37:49] - BACKUP: System data backed up to 'backups\backup_20250817_183749'
+[2025-08-17 18:38:37] - PATIENT_REGISTRATION: New patient registered with ID 1, Name: nawras
+[2025-08-17 18:41:24] - SYSTEM_EXIT: Application closed.
+[2025-08-17 18:41:45] - SYSTEM_START: Application started.
+[2025-08-17 18:42:25] - APPOINTMENT_BOOKING: Appointment ID 2 booked for Patient ID 1 with Doctor ID 1.
+[2025-08-17 18:43:17] - SYSTEM_EXIT: Application closed.
+[2025-08-17 18:46:09] - SYSTEM_START: Application started.
+[2025-08-17 18:48:24] - SYSTEM_START: Application started.
+[2025-08-17 18:51:43] - SYSTEM_START: Application started.
+[2025-08-17 18:52:42] - SYSTEM_START: Application started.
+[2025-08-17 18:54:22] - PATIENT_REGISTRATION: New patient registered with ID 1, Name: nawras
+[2025-08-17 18:55:30] - SYSTEM_START: Application started.
+[2025-08-17 18:56:09] - DOCTOR_ADD: New doctor added with ID 1, Name: mohammad, Specialty: eng
+[2025-08-17 18:56:36] - BACKUP: System data backed up to 'backups\backup_20250817_185636'
+[2025-08-17 18:56:57] - PATIENT_REGISTRATION: New patient registered with ID 1, Name: nawras
+[2025-08-17 18:58:11] - APPOINTMENT_BOOKING: Appointment ID 3 for Patient ID 1 with Doctor ID 1.
+[2025-08-17 18:59:30] - APPOINTMENT_CANCEL: Appointment ID 2 for Patient ID 1 was cancelled.
+[2025-08-17 19:00:21] - SYSTEM_EXIT: Application closed.
+[2025-08-17 19:01:10] - SYSTEM_START: Application started.
+[2025-08-17 19:01:31] - PATIENT_REGISTRATION: New patient registered with ID 1, Name: nawras
+[2025-08-17 19:02:35] - DOCTOR_ADD: New doctor added with ID 1, Name: mohammad, Specialty: eng
+[2025-08-17 19:03:20] - APPOINTMENT_BOOKING: Appointment ID 2 for Patient ID 1 with Doctor ID 1.
+[2025-08-17 19:04:45] - BACKUP: System data backed up to 'backups\backup_20250817_190445'
+[2025-08-17 19:07:15] - SYSTEM_START: Application started.
+[2025-08-17 19:07:39] - SYSTEM_EXIT: Application closed.
+[2025-08-17 19:08:02] - SYSTEM_START: Application started.
+[2025-08-17 19:08:23] - PATIENT_REGISTRATION: New patient registered with ID 1, Name: nawras
+[2025-08-17 19:09:02] - DOCTOR_ADD: New doctor added with ID 1, Name: mohammad, Specialty: eng
+[2025-08-17 19:09:45] - APPOINTMENT_BOOKING: Appointment ID 2 for Patient ID 1 with Doctor ID 1.
+[2025-08-17 19:10:12] - BACKUP: System data backed up to 'backups\backup_20250817_191012'
+[2025-08-17 19:10:53] - APPOINTMENT_CANCEL: Appointment ID 2 for Patient ID 1 was cancelled.
+[2025-08-17 19:10:59] - SYSTEM_EXIT: Application closed.
