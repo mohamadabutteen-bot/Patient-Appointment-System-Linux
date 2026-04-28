@@ -1,0 +1,22 @@
+# Patient Appointment System (Linux)
+
+## Overview
+A command-line patient appointment management system developed in C and tested on Ubuntu.
+
+## Features
+- Add patient appointments
+- View scheduled appointments
+- Edit or cancel appointments
+- Search patient records
+- File handling for saving and loading data
+
+## Technologies Used
+- C
+- Ubuntu Linux
+- GCC
+- Command-Line Interface
+
+## How to Run
+```bash
+gcc *.c -o appointment_system
+./appointment_system
